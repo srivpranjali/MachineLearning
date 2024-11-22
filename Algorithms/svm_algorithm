@@ -1,3 +1,7 @@
+## Problem Statement:
+## Predict the gender of a person from the specified data sets of height and weight
+## Dataset used is https://www.kaggle.com/shawon10/male-female-detection-by-height-weight-knn/data
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
